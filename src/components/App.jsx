@@ -42,7 +42,7 @@ export class App extends Component {
         </Section>
        
         <Section title={"Statistics"}>
-          <Statistics good={good} neutral={neutral} bad={bad} total={totalFeedback} positivePercentage={percenage}/>
+          <Statistics good={good} neutral={neutral} bad={bad} total={totalFeedback} positivePercentage={percentage}/>
        </Section>
        
         
